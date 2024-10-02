@@ -3,7 +3,6 @@ python
 jupyter_client
 markdown-it-py
 matplotlib
-matplotlib-inline
 numpy
 packaging
 pandas
