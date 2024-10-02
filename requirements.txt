@@ -1,6 +1,4 @@
 streamlit
-python
-jupyter_client
 markdown-it-py
 matplotlib
 numpy
